@@ -15,12 +15,12 @@
 
 <!-- ArtixDevelopment Custom Theme -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark&bg_color=0b0f17&color=00c3ff&line=00e5ff&point=ffffff&area=true&hide_border=true&area_color=00c3ff&title_color=00c3ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PotDevxs&theme=github-dark&bg_color=0b0f17&color=00c3ff&line=00e5ff&point=ffffff&area=true&hide_border=true&area_color=00c3ff&title_color=00c3ff" />
 
 </div>
 
 <p align="center">
-🛍️ ArtixDevelopment Theme • Azul Neon • Identidade Premium • Foco em Performance
+🛍️ ArtixDevelopment • Melhor Loja de Plugins • Plugins Premium • Faça sua Network conosco!
 </p>
 
 <div align="center">
