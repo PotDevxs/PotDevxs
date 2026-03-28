@@ -1,32 +1,54 @@
-███████╗ █████╗  █████╗ ███████╗████████╗██╗   ██╗███████╗██╗███╗   ██╗
-██╔════╝██╔══██╗██╔══██╗██╔════╝╚══██╔══╝╚██╗ ██╔╝╚══███╔╝██║████╗  ██║
-█████╗  ███████║███████║███████╗   ██║    ╚████╔╝   ███╔╝ ██║██╔██╗ ██║
-██╔══╝  ██╔══██║██╔══██║╚════██║   ██║     ╚██╔╝   ███╔╝  ██║██║╚██╗██║
-██║     ██║  ██║██║  ██║███████║   ██║      ██║   ███████╗██║██║ ╚████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝      ╚═╝   ╚══════╝╚═╝╚═╝  ╚═══╝
-                                                                       
-> # Do you have time to look at my profile?
-Hello, you're looking at Faastyzin GitHub profile! </br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Desistirei&label=Profile%20views&color=0e75b6&style=flat" alt="Desistirei"/> </p>
+# 🚀 Java Developer | Minecraft Plugins
 
-# Who am I?
-I am **Faastyzin**.</br>
-I'm a male, 25 years old *(14/October)*, currently living in Brazil</br>
-I'm interested in **Java, Kotlin, C#, Python, C++, JavaScript.**</br>
+## 💻 About Me
 
-# What do I do in GitHub?
-I mostly post some open-source **Spigot plugins** that I either coded, or modified.</br>
-Starting in May 2025, I no longer code anything for Minecraft, so **Articos** & **WerkCore** are the last plugins released under my profile.
+💻 Java Developer especializado em desenvolvimento de plugins avançados para Minecraft
+⚙️ Focado em sistemas de alta performance, escalabilidade e total customização
+🧠 Experiência com Spigot/Paper API, arquitetura modular e otimização de código
+🚀 Criação de soluções complexas, reutilizáveis e prontas para produção
 
-# What am I currently doing?
-Currently, I'm working with various Minecraft plugins focusing on the competitive PvP experience.</br>
+🔥 Sempre buscando elevar o nível dos servidores com sistemas únicos e bem estruturados
 
-# Anything else about me?
-You don't need to know much about me, I actually prefer it that way :)</br>
+## 🧠 Activity Graph
 
-# Contact me
-- Discord: **faastyzin.**
-- Telegram: **Faastyzin**
-- Instagram: **hax.wept**
-- E-mail: **faastyzin@contact.com**</br>
-> Mostly online from **06:00 - 23:00.**</br>
+<div align="center">
+
+<!-- ArtixDevelopment Custom Theme -->
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-dark&bg_color=0b0f17&color=00c3ff&line=00e5ff&point=ffffff&area=true&hide_border=true&area_color=00c3ff&title_color=00c3ff" />
+
+</div>
+
+<p align="center">
+🛍️ ArtixDevelopment Theme • Azul Neon • Identidade Premium • Foco em Performance
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ArtixDevelopment-High%20Performance%20Plugins-00c3ff?style=for-the-badge&logo=java&logoColor=white" />
+
+</div>
+
+## 🛍️ ArtixDevelopment Store
+
+* ArtixDevelopment: [https://artix.sideload.lol/](https://artix.sideload.lol/)
+* ArtixDevelopment Github: [https://github.com/ArtixDevelopment](https://github.com/ArtixDevelopment)
+* Discord: [https://discord.gg/CgJbgfQcSf](https://discord.gg/CgJbgfQcSf) (ArtixDevelopment)
+* Discord: [https://discord.gg/HQujPx3kCU](https://discord.gg/HQujPx3kCU) (ArtixCommunity)
+
+### 🚀 Premium Minecraft Plugins
+
+✔️ Sistemas avançados e exclusivos
+✔️ Totalmente customizáveis (configs completas)
+✔️ Alta performance (zero lag em produção)
+✔️ Arquitetura escalável para servidores grandes
+
+### 🔥 Destaques
+
+* ⚙️ Core systems otimizados
+* 🧠 Menus complexos e dinâmicos
+* 💰 Sistemas de economia avançados
+* 🛡️ Anti-exploit e segurança reforçada
+
+## 🌐 Discord: haxsx
+
