@@ -1,10 +1,10 @@
 # 🚀 Java Developer | Minecraft Plugins
 
 ## 💻 Poteck Info
-💻 Java Developer especializado em desenvolvimento de plugins avançados para Minecraft
-⚙️ Focado em sistemas de alta performance, escalabilidade e total customização
-🧠 Experiência com Spigot/Paper API, arquitetura modular e otimização de código
-🚀 Criação de soluções complexas, reutilizáveis e prontas para produção
+* 💻 Java Developer especializado em desenvolvimento de plugins avançados para Minecraft
+* ⚙️ Focado em sistemas de alta performance, escalabilidade e total customização
+* 🧠 Experiência com Spigot/Paper API, arquitetura modular e otimização de código
+* 🚀 Criação de soluções complexas, reutilizáveis e prontas para produção
 
 🔥 Sempre buscando elevar o nível dos servidores com sistemas únicos e bem estruturados
 
@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ZonixDevelopment-High%20Performance%20Plugins-00c3ff?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/PotStudios-High%20Performance%20Plugins-00c3ff?style=for-the-badge&logo=java&logoColor=white" />
 
 </div>
 ## 🛍️ PotStudios
