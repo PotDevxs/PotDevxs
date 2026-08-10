@@ -12,14 +12,14 @@
 
 <div align="center">
 
-<!-- ZonixDevelopment Custom Theme -->
+<!-- PotStudios Custom Theme -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PotDevxs&theme=github-dark&bg_color=0b0f17&color=00c3ff&line=00e5ff&point=ffffff&area=true&hide_border=true&area_color=00c3ff&title_color=00c3ff" />
 
 </div>
 
 <p align="center">
-🛍️ ZonixDevelopment • Meu projeto atual • Minigames • Network!
+🛍️ Hyrion Network • Meu projeto atual • Minigames • Network!
 </p>
 
 <div align="center">
@@ -27,6 +27,9 @@
 <img src="https://img.shields.io/badge/ZonixDevelopment-High%20Performance%20Plugins-00c3ff?style=for-the-badge&logo=java&logoColor=white" />
 
 </div>
+## 🛍️ PotStudios
+* Uma Loja de plugins baratos e inovadores!
+PotStudios: [https://discord.gg/MxrnWvvppq](PotStudios Discord)
 
 ## 🛍️ ArtixDevelopment | Encerrada.
 * Minha antiga loja e org de plugins
@@ -44,7 +47,7 @@
 
 ### 🔥 Destaques
 
-* ⚙️ ArtixCore | CoreNetwork completo com diversas funcionalidades
+* ⚙️ PotCore | CoreNetwork completo com diversas funcionalidades [1.7.10-26+]
 * 🧠 ZonixCore | CoreNetwork focado totalmente em desempenho [1.7.10-1.21+]
 * 💰 KyraCore | CoreNetwork totalmente focando em network gringa (practice)
 * 🛡️ WerkCore | Core com sistema de economia e sistemas avançados
