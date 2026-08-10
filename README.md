@@ -29,7 +29,7 @@
 </div>
 ## 🛍️ PotStudios
 * Uma Loja de plugins baratos e inovadores!
-PotStudios: [https://discord.gg/MxrnWvvppq](PotStudios Discord)
+PotStudios: [https://discord.gg/MxrnWvvppq](PotStudios-Discord)
 
 ## 🛍️ ArtixDevelopment | Encerrada.
 * Minha antiga loja e org de plugins
